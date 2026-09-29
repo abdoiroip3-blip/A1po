@@ -1,0 +1,6 @@
+{
+  "name": "حافظة وملاحظات HTML للجوال",
+  "description": "تطبيق متكامل لإدارة الحافظة وكتابة وتعديل الملاحظات بصيغة HTML مخصص للهواتف مع إمكانية التحرير والمعاينة والتصدير.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
